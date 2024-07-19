@@ -6,6 +6,7 @@ public class BankInfo extends AxisBank {
 	}
 	private void fixed() {
 		System.out.println("20000");
+		System.out.println("20000");
 	}
 	public static void main(String[] args) {
 		BankInfo Info = new BankInfo();

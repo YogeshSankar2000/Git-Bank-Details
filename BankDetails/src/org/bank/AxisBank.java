@@ -3,5 +3,6 @@ package org.bank;
 public class AxisBank {
 	public void deposit() {
 		System.out.println("10000");
+		System.out.println("40000");
 	}
 }
